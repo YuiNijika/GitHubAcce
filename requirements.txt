@@ -1,0 +1,4 @@
+requests>=2.25.0
+ping3>=3.0.0
+tkinter>=8.6
+tkinter.ttk>=8.6
